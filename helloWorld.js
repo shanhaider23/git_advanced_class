@@ -1,7 +1,7 @@
-const helloWorld = function() {
+const sayGreeting = function() {
   return 'Hello world!';
 };
 
-console.log(helloWorld());
+console.log(sayGreeting());
 
 console.log("Hello again");
